@@ -1,0 +1,5 @@
+สร้าง .env
+มี 
+SUPABASE_URL=
+SUPABASE_API_KEY=
+SUPABASE_TABLE=
