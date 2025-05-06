@@ -1,5 +1,5 @@
-สร้าง .env
-มี 
-SUPABASE_URL=
-SUPABASE_API_KEY=
-SUPABASE_TABLE=
+สร้าง .env <\n>
+มี <\n>
+SUPABASE_URL= <\n>
+SUPABASE_API_KEY= <\n>
+SUPABASE_TABLE= <\n>
